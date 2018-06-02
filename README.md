@@ -1,2 +1,2 @@
 # dotfiles
-All mt dot files
+All my dot files
